@@ -1,0 +1,15 @@
+CREATE SEQUENCE secuencia_factura
+  START WITH 1
+  INCREMENT BY 1
+  CACHE 100;
+
+
+CREATE SEQUENCE secuencia_cliente
+  START WITH 1
+  INCREMENT BY 1
+  CACHE 100;
+
+  CREATE SEQUENCE secuencia_producto
+  START WITH 1
+  INCREMENT BY 1
+  CACHE 100;
