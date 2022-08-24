@@ -39,6 +39,10 @@ Alternativamente, puede usar el [Spring Boot Maven plugin](https://docs.spring.i
 
 [MER.pdf](https://github.com/ingcamilorodriguezdiaz/serviaseo/files/9411559/MER.pdf)
 
+## EJECUTAR JAR CAMBIANDO LOS PARAMETROS DE SU CONEXIÓN A LA BASE DE DATOS
+
+java -jar app-facturador.jar --spring.datasource.url=CAMBIAR --spring.datasource.username=CAMBIAR --spring.datasource.password=CAMBIAR
+
 
 ## Copyright
 
